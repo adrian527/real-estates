@@ -1,0 +1,21 @@
+.carousel-item > img {
+  filter: brightness(0.6);
+}
+
+.ratiox16-7 {
+  aspect-ratio: 16/6;
+}
+
+.ratiox7-16 {
+  aspect-ratio: 6/8;
+}
+
+@media (max-width: 1000px) {
+  .ratiox16-7 {
+    aspect-ratio: 16/9;
+  }
+}
+
+body {
+  background-image: url("/fancy-cushion.webp");
+}
