@@ -2,7 +2,7 @@
 
 This is a web application to creating and managing real estates proposals, it is written in next js with authentication and database system.
 
-## Instalation
+## Local instalation
 
 Clone this repository locally and run the development server:
 
@@ -17,3 +17,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Preview
+https://real-estates-ku3q.vercel.app/
